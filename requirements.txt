@@ -1,0 +1,8 @@
+numpy
+matplotlib
+requests
+tensorflow
+pandas
+tifffile
+scikit-image
+keras

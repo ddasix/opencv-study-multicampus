@@ -1,0 +1,8 @@
+.venv
+
+# 샘플이미지 디렉토리
+tensorflow/__MACOSX
+tensorflow/dataset_traffic_signs_40_samples_per_class
+tensorflow/dataset_traffic_signs_40_samples_per_class.zip
+
+u_net_isbi/isbi_2012/png
